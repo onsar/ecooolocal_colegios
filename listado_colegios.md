@@ -23,7 +23,7 @@ Este proyecto tiene como objetivo proporcionar una herramienta de ahorro energé
 
 
 * Colegio tercero
-![](./docs/icono_electricidad.png =250x)
+![](/docs/icono_electricidad.png =250x)
     * gas
     * gasoil
     * agua
