@@ -1,24 +1,24 @@
 # Colegios con sistemas de medida
 
-* Colegios primero
+* Colegio primero
     * [electricidad](http://91.121.222.125/emoncms/dashboard/view?id=25)
     * [gas](http://91.121.222.125/emoncms/dashboard/view?id=25)
     * [gasoil](http://91.121.222.125/emoncms/dashboard/view?id=25)
     * [agua](http://91.121.222.125/emoncms/dashboard/view?id=25)
 
-* Colegios segundo
+* Colegio segundo
     * electricidad 
     * gas
     * gasoil
     * agua
 
-* Colegios tercero
+* Colegio tercero
     * electricidad 
     * gas
     * gasoil
     * agua
 
-* Colegios cuarto
+* Colegio cuarto
     * electricidad 
     * gas
     * gasoil
