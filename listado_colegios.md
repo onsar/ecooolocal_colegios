@@ -1,13 +1,16 @@
+
 <iframe style="width:580px; height:400px;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://emoncms.org/vis/bargraph?feedid=378423&colour=edc240&interval=86400&dp=1&scale=1&delta=1&mode=0&embed=1"></iframe>
 
 # Colegios con sistemas de medida
 
 
-<img src="https://github.com/onsar/ecooolocal_colegios/blob/master/docs/icono_electricidad.png" width="200" height="400"/>
+<img src="https://github.com/onsar/ecooolocal_colegios/blob/master/docs/icono_electricidad.png" width="50" height="100"/>
 
-![proceso](/docs/proceso.jpg)
+<img src="./docs/icono_electricidad.png" width="50" height="100"/>
 
-![proceso](/docs/proceso.jpg){:height="50%" width="50%"}
+<img src="/docs/icono_electricidad.png" width="50" height="100"/>
+
+![proceso](/docs/proceso.jpg =300x100)
 
 
 Este proyecto tiene como objetivo proporcionar una herramienta de ahorro energético a los alumnos de colegios que esten participando en proyectos de energía.
