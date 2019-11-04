@@ -1,6 +1,3 @@
-
-<iframe style="width:580px; height:400px;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://emoncms.org/vis/bargraph?feedid=378423&colour=edc240&interval=86400&dp=1&scale=1&delta=1&mode=0&embed=1"></iframe>
-
 ## ecooolocal_colegios
 
 https://onsar.github.io/ecooolocal_colegios/
