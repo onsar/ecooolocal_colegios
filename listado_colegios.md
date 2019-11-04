@@ -2,6 +2,7 @@
 
 # Colegios con sistemas de medida
 
+<img src="/docs/proceso.jpg" alt="drawing" width="300"/>
 
 ![proceso](/docs/proceso.jpg =300x)
 
