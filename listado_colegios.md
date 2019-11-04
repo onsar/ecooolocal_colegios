@@ -24,12 +24,13 @@ Este proyecto tiene como objetivo proporcionar una herramienta de ahorro energé
 
 
 * Colegio tercero
-![electricidad](/docs/icono_electricidad.png)
+![electricidad](/docs/icono_electricidad.png =300)
     * gas
     * gasoil
     * agua
 
 * Colegio cuarto
+![electricidad](/docs/icono_electricidad.png | width=100)
     * electricidad 
     * gas
     * gasoil
