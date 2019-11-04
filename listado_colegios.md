@@ -3,7 +3,7 @@
 # Colegios con sistemas de medida
 
 
-![proceso](/docs/proceso.jpg)
+![proceso](/docs/proceso.jpg =500x)
 
 
 Este proyecto tiene como objetivo proporcionar una herramienta de ahorro energético a los alumnos de colegios que esten participando en proyectos de energía.
@@ -23,7 +23,7 @@ Este proyecto tiene como objetivo proporcionar una herramienta de ahorro energé
 
 
 * Colegio tercero
-![](/docs/icono_electricidad.png =250x)
+![electricidad](/docs/icono_electricidad.png)
     * gas
     * gasoil
     * agua
