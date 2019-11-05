@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo proporcionar una herramienta de ahorro energé
 ## La monitorización de los colegios
 Los datos energéticos de los colegios se presentan de la siguiente forma:
 
-[Página Inicial con el listado de los colegios](listado_colegios.md)
+[Página Inicial con el listado de los colegios](https://onsar.github.io/ecooolocal_colegios/listado_colegios.html)
 
 * Menú principal
     * electricidad 
