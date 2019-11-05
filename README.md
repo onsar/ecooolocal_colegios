@@ -6,19 +6,17 @@
 
 Este proyecto tiene como objetivo proporcionar una herramienta de ahorro energético a los alumnos de colegios que esten participando en proyectos de sensibilización energética.
 
-* [consumos del Colegio Einstein](http://91.121.222.125/emoncms/dashboard/view?id=25)
+* [Consumos del Colegio Einstein](http://91.121.222.125/emoncms/dashboard/view?id=25)
 
-* [consumos del Colegio Volta](http://91.121.222.125/emoncms/dashboard/view?id=25)
+* [Consumos del Colegio Volta](http://91.121.222.125/emoncms/dashboard/view?id=26)
 
-* [consumos del Colegio Tesla](http://91.121.222.125/emoncms/dashboard/view?id=25)
+* [Consumos del Colegio Tesla](http://91.121.222.125/emoncms/dashboard/view?id=25)
 
 
 ## ecooolocal_colegios
 Este proyecto tiene como objetivo proporcionar una herramienta de ahorro energético a los alumnos de colegios que esten participando en proyectos de energía. 
 ## La monitorización de los colegios
 Los datos energéticos de los colegios se presentan de la siguiente forma:
-
-[Página Inicial con el listado de los colegios](https://onsar.github.io/ecooolocal_colegios/listado_colegios.html)
 
 * Menú principal
     * electricidad 
