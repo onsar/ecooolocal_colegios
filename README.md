@@ -14,9 +14,6 @@ Este proyecto tiene como objetivo proporcionar una herramienta de ahorro energé
 
 
 ## ecooolocal_colegios
-
-https://onsar.github.io/ecooolocal_colegios/
-
 Este proyecto tiene como objetivo proporcionar una herramienta de ahorro energético a los alumnos de colegios que esten participando en proyectos de energía. 
 ## La monitorización de los colegios
 Los datos energéticos de los colegios se presentan de la siguiente forma:
