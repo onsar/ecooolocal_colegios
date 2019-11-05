@@ -1,6 +1,6 @@
 # Monitorizacion ecooolocal
 
-![](/docs/proceso.jpg)
+![imagen](/docs/proceso.jpg)
 
 ## Colegios con sistemas de medida de energía
 
