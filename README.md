@@ -1,6 +1,7 @@
 # Monitorizacion ecooolocal
+ prueba de la imagen:
 
-![imagen](/docs/proceso.jpg)
+![imagen](/docs/proceso.jpg =400x200)
 
 ## Colegios con sistemas de medida de energía
 
