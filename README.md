@@ -1,11 +1,7 @@
 # Monitorizacion ecooolocal
- prueba de la imagen 1
+ prueba de la imagen 2
  
- <img src="/docs/proceso.jpg" width="400" height="300">
- 
- <img src="./docs/proceso.jpg" width="400" height="300">
- 
- <img src="/docs/proceso.jpg">
+ <img src="./docs/proceso.jpg" width="400">
  
  La imagen en markdown
 
