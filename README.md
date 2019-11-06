@@ -1,7 +1,9 @@
 # Monitorizacion ecooolocal
- prueba de la imagen 2
+ prueba de la imagen 3
  
+ <center>
  <img src="./docs/proceso.jpg" width="400">
+ </center>
  
  La imagen en markdown
 
