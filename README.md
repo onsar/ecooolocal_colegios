@@ -1,7 +1,15 @@
 # Monitorizacion ecooolocal
- prueba de la imagen:
+ prueba de la imagen 1
+ 
+ <img src="/docs/proceso.jpg" width="400" height="300">
+ 
+ <img src="./docs/proceso.jpg" width="400" height="300">
+ 
+ <img src="/docs/proceso.jpg">
+ 
+ La imagen en markdown
 
-![imagen](/docs/proceso.jpg =400x200)
+![imagen](/docs/proceso.jpg)
 
 ## Colegios con sistemas de medida de energía
 
