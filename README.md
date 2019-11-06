@@ -1,16 +1,9 @@
 # Monitorizacion ecooolocal
- prueba de la imagen 4
- 
-<iframe style="width:580px; height:400px;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://91.121.222.125/emoncms/vis/bargraph?feedid=219&colour=1d3ec4&interval=86400&dp=1&scale=1&delta=1&mode=0&embed=1"></iframe>
  
  <center>
- <img src="./docs/proceso.jpg" width="400">
+ <img src="./docs/proceso.jpg" width="600">
  </center>
  
- La imagen en markdown
-
-![imagen](/docs/proceso.jpg)
-
 ## Colegios con sistemas de medida de energía
 
 Este proyecto tiene como objetivo proporcionar una herramienta de ahorro energético a los alumnos de colegios que esten participando en proyectos de sensibilización energética.
