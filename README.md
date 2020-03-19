@@ -36,14 +36,14 @@ Los datos energéticos de los colegios se presentan de la siguiente forma:
 
 * Pantalla de visualización:
     * 2 gráficas iguales para comparar consumos. Principalmente una semana con la otra
-    * Dos cuadrados con el consumo total que yo estoy visualizando
-    * La pantalla de abajo igual para comparar
-    * Que podamos llegar a una lectura cada 15 minutos
+    * La pantalla inferior será inicialmente igual para comparar   
+    * Se muestra el consumo total de la gráfica
+    * Se puede llegar a una lectura de cada 5 minutos
     * El día la máxima división
-    * Elegir la semana de lunes a domingo
-    * mes el ultimo con el último día del mes
+    * Se pueda elegir una semana de forma sencilla
+    * Visulaizar el ultimo mes con el último día del mes
     * Año: el que quieras
-    * Interesante añadir un sensor externo de temperatura exterior
+    * Muestra un sensor externo de temperatura exterior
     
 * Las únidades de medida representadas en las gráficas son:
     * Electriciada: kWh
