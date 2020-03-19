@@ -8,11 +8,13 @@
 
 Este proyecto tiene como objetivo proporcionar una herramienta de ahorro energético a los alumnos de colegios que esten participando en proyectos de sensibilización energética.
 
-* [Consumos del Colegio Einstein](http://91.121.222.125/emoncms/dashboard/view?id=30)
+* [Elizalde Herri Eskola (Oiartzun) ](http://91.121.157.131/emoncms/dashboard/view?id=41)
 
-* [Consumos del Colegio Volta](http://91.121.222.125/emoncms/dashboard/view?id=30)
+* [Lezoko Herri Eskola (Lezo) ](http://91.121.157.131/emoncms/dashboard/view?id=58)
 
-* [Consumos del Colegio Tesla](http://91.121.222.125/emoncms/dashboard/view?id=26)
+* [Karmengo Ama Herri Eskola (Pasaia) ](http://91.121.157.131/emoncms/dashboard/view?id=42)
+
+* [Mare de Déu del Carme (Maó) ](http://91.121.157.131/emoncms/dashboard/view?id=62)
 
 
 ## ecooolocal_colegios
@@ -42,3 +44,9 @@ Los datos energéticos de los colegios se presentan de la siguiente forma:
     * mes el ultimo con el último día del mes
     * Año: el que quieras
     * Interesante añadir un sensor externo de temperatura exterior
+    
+* Las únidades de medida representadas en las gráficas son:
+    * Electriciada: kWh
+    * Gas: kWh
+    * Gasoil: litros
+    * Agua: m3
