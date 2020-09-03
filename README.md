@@ -7,6 +7,11 @@
 ## Colegios con sistemas de medida de energía
 
 Este proyecto tiene como objetivo proporcionar una herramienta de ahorro energético a los alumnos de colegios que esten participando en proyectos de sensibilización energética.
+El proyecto se desarrolla en el marco de Software Libre y por lo tanto todos los programas estan en el dominio público
+
+
+## Centros educativos
+Esta es la relación de centros educativos que disponen de la medida de energía:
 
 * [Elizalde Herri Eskola (Oiartzun) ](http://91.121.157.131/emoncms/dashboard/view?id=41)
 
@@ -19,9 +24,9 @@ Este proyecto tiene como objetivo proporcionar una herramienta de ahorro energé
 * [Maria Lluïsa Serra (Maó) ](http://91.121.157.131/emoncms/dashboard/view?id=67)
 
 
-## ecooolocal_colegios
-Este proyecto tiene como objetivo proporcionar una herramienta de ahorro energético a los alumnos de colegios que esten participando en proyectos de energía. 
 ## La monitorización de los colegios
+La visualización de los datos es de fácil comprensión y muestra la comparación del consumo energético del centro en diferentes periodos de tiempo. 
+
 Los datos energéticos de los colegios se presentan de la siguiente forma:
 
 * Menú principal
@@ -36,18 +41,18 @@ Los datos energéticos de los colegios se presentan de la siguiente forma:
     * Semanal 
     * Diario
 
-* Pantalla de visualización:
-    * 2 gráficas iguales para comparar consumos. Principalmente una semana con la otra
-    * La pantalla inferior será inicialmente igual para comparar   
-    * Se muestra el consumo total de la gráfica
-    * Se puede llegar a una lectura de cada 5 minutos
-    * El día la máxima división
-    * Se pueda elegir una semana de forma sencilla
-    * Visulaizar el ultimo mes con el último día del mes
-    * Año: el que quieras
-    * Muestra un sensor externo de temperatura exterior
+* Características de la página:
+    * Inicialmente muestra dos gráficas para comparar consumos. 
+    * La pantalla inferior será inicialmente igual a la superior
+    * Se puede ver el consumo total representado en cada una de las gráficas
+    * Las lecturas tienen un detalle que llega a los 5 minutos
+    * El día es la máxima división
+    * Se pueda elegir una semana, o cualquier otro intervalo, de forma sencilla
+    * Es posible visualizar el ultimo mes incluido el último día del mes en curso
+    * También se puede seleccionar el año
+    * En las gráficas se incluye un sensor externo de temperatura exterior
     
-* Las únidades de medida representadas en las gráficas son:
+* Las unidades de medida representadas en las gráficas son:
     * Electriciada: kWh
     * Gas: kWh
     * Gasoil: litros
