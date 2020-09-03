@@ -16,7 +16,7 @@ Este proyecto tiene como objetivo proporcionar una herramienta de ahorro energé
 
 * [Mare de Déu del Carme (Maó) ](http://91.121.157.131/emoncms/dashboard/view?id=62)
 
-* [Maria Lluïsa Serra (Maó) ](http://91.121.157.131/emoncms/dashboard/view?id=69)
+* [Maria Lluïsa Serra (Maó) ](http://91.121.157.131/emoncms/dashboard/view?id=67)
 
 
 ## ecooolocal_colegios
