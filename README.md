@@ -23,6 +23,9 @@ Esta es la relación de centros educativos que disponen de la medida de energía
 
 * [Maria Lluïsa Serra (Maó) ](http://91.121.157.131/emoncms/dashboard/view?id=67)
 
+* [Gamón Ikastetxea (Errenteria) ](https://app.energomonitor.cz/login?next=/)
+
+
 
 ## La monitorización de los colegios
 La visualización de los datos es de fácil comprensión y muestra la comparación del consumo energético del centro en diferentes periodos de tiempo. 
