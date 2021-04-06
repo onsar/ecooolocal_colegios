@@ -25,6 +25,8 @@ Esta es la relación de centros educativos que disponen de la medida de energía
 
 * [Gamón Ikastetxea (Errenteria) ](https://app.energomonitor.cz/login?next=/)
 
+* [José Ramón Otero (Artica-Madrid) ](http://data.endef.com/emoncms/dashboard/view?id=72)
+
 
 
 ## La monitorización de los colegios
