@@ -25,7 +25,7 @@ Esta es la relación de centros educativos que disponen de la medida de energía
 
 * [Gamón Ikastetxea (Errenteria) ](https://app.energomonitor.cz/login?next=/)
 
-* [Colegio Ártica- Madrid ](http://data.endef.com/emoncms/dashboard/view?id=72)
+* [Colegio Ártica - Madrid ](http://data.endef.com/emoncms/dashboard/view?id=72)
 
 
 
